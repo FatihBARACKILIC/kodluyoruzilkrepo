@@ -32,5 +32,7 @@ Pull request kabul edilir. Büyük değişiklikler için, lütfen önce neyi de�
 [MIT](https://choosealicense.com/licenses/mit/)
 
 [Patika](https://www.patika.dev/tr)
+
 [Patika hesabım](https://app.patika.dev/fatihbarackilic)
+
 [Kodluyoruz](https://www.kodluyoruz.org)
